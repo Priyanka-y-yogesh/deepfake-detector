@@ -1,0 +1,8 @@
+Flask==2.2.5
+Werkzeug==2.2.3
+opencv-python-headless==4.8.0.76
+numpy==1.24.4
+pillow
+scikit-image==0.21.0
+moviepy==1.0.3
+gunicorn
